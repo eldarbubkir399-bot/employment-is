@@ -50,3 +50,17 @@ employment-is/
 - Жаңа жұмыс бөлек `feature/...` branch-та жасалады.
 - Өзгерістер Pull Request арқылы `main`-ге біріктіріледі.
 - Міндеттер GitHub Issues арқылы жүргізіледі.
+
+## UML диаграммалары
+
+- [Use Case диаграммасы](docs/diagrams/use-case-diagram.png)
+- [Sequence диаграммасы](docs/diagrams/sequence-diagram.png) — «Бос орынға өтініш беру және шешім қабылдау» сценарийі
+- [Class диаграммасы](docs/diagrams/class-diagram.png)
+
+![Use Case диаграммасы](docs/diagrams/use-case-diagram.png)
+
+## Құжаттар
+
+- [Талаптар](docs/requirements.md)
+- [User Story](docs/user-stories.md)
+- [Use Case сценарийлері](docs/use-case.md)
